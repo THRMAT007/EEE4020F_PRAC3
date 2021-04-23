@@ -1,0 +1,25 @@
+0: We have 4 processors
+Opened "Data/fly.jpg": width = 821, height = 1024, c = 3
+File closed
+
+Clock resolution: 1 ns
+Node 0 Time = 266.262 ms
+Done0: We have 4 processors
+Opened "Data/fly.jpg": width = 821, height = 1024, c = 3
+File closed
+
+Clock resolution: 1 ns
+Node 0 Time = 273.681 ms
+Done0: We have 4 processors
+Opened "Data/fly.jpg": width = 821, height = 1024, c = 3
+File closed
+
+Clock resolution: 1 ns
+Node 0 Time = 261.108 ms
+Done0: We have 4 processors
+Opened "Data/fly.jpg": width = 821, height = 1024, c = 3
+File closed
+
+Clock resolution: 1 ns
+Node 0 Time = 384.929 ms
+Done
